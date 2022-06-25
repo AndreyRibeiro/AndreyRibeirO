@@ -1,6 +1,7 @@
 ### 👋🏻 Olá, me chamo Andrey Ribeiro, atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Uninter em busca de experiência profissional na área de programação Back-End.
 
 #### 💎 Linkedin: https://www.linkedin.com/in/andrey-ribeiro-4492ab1b5/
+#### ✉  Email: andrey.grigoletto@gmail.com
 
 <!--
 **AndreyRibeiro/AndreyRibeirO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
